@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+  <!-- Background circle -->
+  <circle cx="8" cy="8" r="7" fill="#2A2A2A" stroke="#64B5F6" stroke-width="1"/>
+  
+  <!-- Pie slice 1 -->
+  <path d="M 8 8 L 8 2 A 6 6 0 0 1 13.196 5 Z" fill="#FF8A80"/>
+  
+  <!-- Pie slice 2 -->
+  <path d="M 8 8 L 13.196 5 A 6 6 0 0 1 13.196 11 Z" fill="#80CBC4"/>
+  
+  <!-- Pie slice 3 -->
+  <path d="M 8 8 L 13.196 11 A 6 6 0 0 1 2.804 11 Z" fill="#81C784"/>
+  
+  <!-- Pie slice 4 -->
+  <path d="M 8 8 L 2.804 11 A 6 6 0 0 1 8 2 Z" fill="#FFD54F"/>
+  
+  <!-- Center text -->
+  <text x="8" y="9" text-anchor="middle" font-family="Arial, sans-serif" font-size="4" font-weight="bold" fill="#E0E0E0">P</text>
+</svg>
