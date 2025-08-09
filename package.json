@@ -1,5 +1,6 @@
 {
   "name": "pie-language-support",
+  "publisher": "piecode",
   "displayName": "PIE Language Support",
   "description": "Syntax highlighting for PIE programming language",
   "version": "0.0.1",
